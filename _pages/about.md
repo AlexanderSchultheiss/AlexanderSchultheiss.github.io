@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-> ATTENTION: Website is still under construction.
-
 I studied informatics at the Friedrich Schiller University Jena. During my studies, I focused on computer vision and software engineering.
 
 Since March 2019, I am a Doctoral student at Humboldt-Universität zu Berlin and part of the VariantSync project. I am also associated with the Software Engineering Group at the University of Bern. 
