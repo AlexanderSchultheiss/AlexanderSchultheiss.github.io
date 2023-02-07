@@ -35,7 +35,8 @@ Paul Maximilian Bittner, Christof Tinnes, <ins>Alexander Schultheiß</ins>, Sör
 <span style="font-size:1.1em;">__Quantifying the Potential to Automate the Synchronization of Variants in Clone-and-Own__</span><br>
 <ins>Alexander Schultheiß</ins>, Paul Maximilian Bittner, Thomas Thüm, and Timo Kehrer. In: Proceedings of the International Conference on Software Maintenance and Evolution (ICSME '22).
 <br>
-[[preprint]](http://alexanderschultheiss.github.io/files/SBTK-ICSME22.pdf)
+[[doi]](https://doi.org/10.1109/ICSME55016.2022.00032)
+[[pdf]](http://alexanderschultheiss.github.io/files/SBTK-ICSME22.pdf)
 
 <span style="font-size:0.75em;">[EASE'2022]</span><br>
 <span style="font-size:1.1em;">__Simulating the Evolution of Clone-and-Own Projects with VEVOS__</span><br>
