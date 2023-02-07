@@ -10,7 +10,7 @@ author_profile: true
 
 <span style="font-size:0.75em;">[VaMoS'2023]</span><br>
 <span style="font-size:1.1em;">__Benchmark Generation with VEVOS: A Coverage Analysis of Evolution Scenarios in Variant-Rich Systems__</span><br>
-Alexander Schultheiß, Paul Maximilian Bittner, Sandra Greiner, and Timo Kehrer. In: Proceedings of the 17th International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS '23). ACM, New York, NY, USA, 13–22.
+<ins>Alexander Schultheiß</ins>, Paul Maximilian Bittner, Sandra Greiner, and Timo Kehrer. In: Proceedings of the 17th International Working Conference on Variability Modelling of Software-Intensive Systems (VaMoS '23). ACM, New York, NY, USA, 13–22.
 <br>
 [[doi]](https://doi.org/10.1145/3571788.3571793)
 [[pdf]](http://alexanderschultheiss.github.io/files/SBGK-VaMoS23.pdf)
