@@ -84,11 +84,13 @@ author:
   avatar           : "profile.jpeg"
   bio              : "Doctoral Student at Humboldt-Universität zu Berlin."
   location         : "Berlin, Germany"
-  employer         :
+  employer         : "Humboldt-Universität zu Berlin"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=OZ-4_nYAAAAJ&hl=en"
-  email            :
+  email            : "alexander.schultheiss (at) informatik.hu-berlin.de"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  phone            : " (030) 2093-411-48"
+  address          : "Rudower Chaussee 25, R4.415"
   uri              :
   bitbucket        :
   codepen          :
