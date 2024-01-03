@@ -82,15 +82,15 @@ analytics:
 author:
   name             : "Alexander Schultheiß"
   avatar           : "profile.jpeg"
-  bio              : "Doctoral Student at Humboldt-Universität zu Berlin."
+  bio              : "Doctoral Student at University of Bern."
   location         : "Berlin, Germany"
-  employer         : "Humboldt-Universität zu Berlin"
+  employer         : 
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=OZ-4_nYAAAAJ&hl=en"
-  email            : "alexander.schultheiss (at) informatik.hu-berlin.de"
+  email            : "AlexanderSchultheiss (at) pm.me"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
-  phone            : " (030) 2093-411-43"
-  address          : "Rudower Chaussee 25, R4.415"
+  phone            : 
+  address          :
   uri              :
   bitbucket        :
   codepen          :
