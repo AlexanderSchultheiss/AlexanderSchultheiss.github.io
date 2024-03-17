@@ -7,7 +7,7 @@ author_profile: true
 
 ---
 ## 2023
-<span style="font-size:0.75em;">[SoSyM'2022]</span><br>
+<span style="font-size:0.75em;">[SoSyM'2023]</span><br>
 <span style="font-size:1.1em;">__RaQuN: A Generic and Scalable N-Way Model Matching Algorithm__</span><br>
 <ins>Alexander Schultheiß</ins>, Paul Maximilian Bittner, Alexander Boll, Lars Grunske, Thomas Thüm, and Timo Kehrer. In: Software and Systems Modeling (SoSyM). Springer, October 2023, pp. 1495-1517.
 <br>
