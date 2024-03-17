@@ -7,6 +7,19 @@ author_profile: true
 
 ---
 ## 2023
+<span style="font-size:0.75em;">[SoSyM'2022]</span><br>
+<span style="font-size:1.1em;">__RaQuN: A Generic and Scalable N-Way Model Matching Algorithm__</span><br>
+<ins>Alexander Schultheiß</ins>, Paul Maximilian Bittner, Alexander Boll, Lars Grunske, Thomas Thüm, and Timo Kehrer. In: Software and Systems Modeling (SoSyM). Springer, October 2023, pp. 1495-1517.
+<br>
+[[doi]](https://doi.org/10.1007/s10270-022-01062-5)
+[[pdf]](http://alexanderschultheiss.github.io/files/SBB+-SoSyM23.pdf)
+
+<span style="font-size:0.75em;">[SPLC'2023]</span><br>
+<span style="font-size:1.1em;">__Views on Edits to Variational Software__</span><br>
+Paul Maximilian Bittner, <ins>Alexander Schultheiß</ins>, Sandra Greiner, Benjamin Moosherr, Sebastian Krieter, Christof Tinnes, Timo Kehrer, and Thomas Thüm. In: Proceedings of the 27th ACM International Systems and Software Product Line Conference (SPLC '23). ACM, New York, NY, USA, 141-152.
+<br>
+[[doi]](https://doi.org/10.1145/3579027.3608985)
+[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3579027.3608985)
 
 <span style="font-size:0.75em;">[VaMoS'2023]</span><br>
 <span style="font-size:1.1em;">__Benchmark Generation with VEVOS: A Coverage Analysis of Evolution Scenarios in Variant-Rich Systems__</span><br>
@@ -16,7 +29,6 @@ author_profile: true
 [[pdf]](http://alexanderschultheiss.github.io/files/SBGK-VaMoS23.pdf)
 
 ## 2022
-
 <span style="font-size:0.75em;">[ESEC/FSE'2022]</span><br>
 <span style="font-size:1.1em;">__Classifying Edits to Variability in Source Code__</span><br>
 Paul Maximilian Bittner, Christof Tinnes, <ins>Alexander Schultheiß</ins>, Sören Viegener, Timo Kehrer, and Thomas Thüm. In: Proceedings of the 30th ACM Joint European Software Engineering Conference and Symposium on the Foundations of Software Engineering (ESEC/FSE 2022). ACM, New York, NY, USA, 196–208.
@@ -24,12 +36,6 @@ Paul Maximilian Bittner, Christof Tinnes, <ins>Alexander Schultheiß</ins>, Sör
 [[doi]](https://doi.org/10.1145/3540250.3549108)
 [[pdf]](https://dl.acm.org/doi/pdf/10.1145/3540250.3549108)
 
-<span style="font-size:0.75em;">[SoSyM'2022]</span><br>
-<span style="font-size:1.1em;">__RaQuN: A Generic and Scalable N-Way Model Matching Algorithm__</span><br>
-<ins>Alexander Schultheiß</ins>, Paul Maximilian Bittner, Alexander Boll, Lars Grunske, Thomas Thüm, and Timo Kehrer. In: Software and Systems Modeling (SoSyM). Springer, November 2022, pp. 1-23.
-<br>
-[[doi]](https://doi.org/10.1007/s10270-022-01062-5)
-[[pdf]](http://alexanderschultheiss.github.io/files/SBB+-SoSyM22.pdf)
 
 <span style="font-size:0.75em;">[ICSME'2022]</span><br>
 <span style="font-size:1.1em;">__Quantifying the Potential to Automate the Synchronization of Variants in Clone-and-Own__</span><br>
