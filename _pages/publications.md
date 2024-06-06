@@ -6,6 +6,31 @@ author_profile: true
 ---
 
 ---
+## 2024
+<span style="font-size:0.75em;">[SPLC'2024]</span><br>
+<span style="font-size:1.1em;">__Give an Inch and Take a Mile? Effects of Adding Reliable Knowledge to Heuristic Feature Tracing__</span><br>
+Sandra Greiner, <ins>Alexander Schultheiß</ins>, Paul Maximilian Bittner, Thomas Thüm, Timo Kehrer. To appear in: Proceedings of the 28th ACM International Systems and Software Product Lines Conference (SPLC). ACM, New York, NY, USA, September 2024.
+<br>
+[[doi (TBA)]]()
+[pdf (TBA)]()
+
+<span style="font-size:0.75em;">[EASE'2024]</span><br>
+<span style="font-size:1.1em;">__Towards Semi-Automated Merge Conflict Resolution: Is It Easier Than We Expected?__</span><br>
+Alexander Boll, Yael van Dok, Manuel Ohrndorf, <ins>Alexander Schultheiß</ins>, Timo Kehrer. To appear in: Proceedings of the 28th International Conference on Evaluation and Assessment in Software Engineering (EASE). ACM, New York, NY, USA, June 2024.
+<br>
+[[doi (TBA)]]()
+[[pdf]](http://alexanderschultheiss.github.io/files/BVO+-EASE24.pdf)
+
+
+<span style="font-size:0.75em;">[JSS]</span><br>
+<span style="font-size:1.1em;">__Beyond code: Is there a difference between comments in visual and textual languages?__</span><br>
+Alexander Boll, Pooja Rani, <ins>Alexander Schultheiß</ins>, Timo Kehrer. In: Journal in Systems an Software (JSS). Elsevier, May 2024, Volume 215.
+<br>
+[[doi]](https://doi.org/10.1016/j.jss.2024.112087)
+[[pdf]](http://alexanderschultheiss.github.io/files/BRSK-JSS24.pdf)
+
+
+
 ## 2023
 <span style="font-size:0.75em;">[SoSyM'2023]</span><br>
 <span style="font-size:1.1em;">__RaQuN: A Generic and Scalable N-Way Model Matching Algorithm__</span><br>
