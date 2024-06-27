@@ -14,11 +14,20 @@ Sandra Greiner, <ins>Alexander Schultheiß</ins>, Paul Maximilian Bittner, Thoma
 [[doi (TBA)]]()
 [pdf (TBA)]()
 
-<span style="font-size:0.75em;">[EASE'2024]</span><br>
-<span style="font-size:1.1em;">__Towards Semi-Automated Merge Conflict Resolution: Is It Easier Than We Expected?__</span><br>
-Alexander Boll, Yael van Dok, Manuel Ohrndorf, <ins>Alexander Schultheiß</ins>, Timo Kehrer. To appear in: Proceedings of the 28th International Conference on Evaluation and Assessment in Software Engineering (EASE). ACM, New York, NY, USA, June 2024.
+<span style="font-size:0.75em;">[FSE'2024]</span><br>
+<span style="font-size:0.75em;">[__Best Paper Award__]</span><br>
+<span style="font-size:1.1em;">__Variability-Aware Differencing with DiffDetective__</span><br>
+Paul Maximilian Bittner, <ins>Alexander Schultheiß</ins>, Benjamin Moosherr, Timo Kehrer, and Thomas Thüm. To appear in: Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE), Demonstrations. ACM, New York, NY, USA, July 2024.
 <br>
 [[doi (TBA)]]()
+[pdf (TBA)]()
+
+<span style="font-size:0.75em;">[EASE'2024]</span><br>
+<span style="font-size:0.75em;">[__Distinguished Paper Award__]</span><br>
+<span style="font-size:1.1em;">__Towards Semi-Automated Merge Conflict Resolution: Is It Easier Than We Expected?__</span><br>
+Alexander Boll, Yael van Dok, Manuel Ohrndorf, <ins>Alexander Schultheiß</ins>, Timo Kehrer. In: Proceedings of the 28th International Conference on Evaluation and Assessment in Software Engineering (EASE). ACM, New York, NY, USA, June 2024.
+<br>
+[[doi]](https://doi.org/10.1145/3661167.36611)
 [[pdf]](http://alexanderschultheiss.github.io/files/BVO+-EASE24.pdf)
 
 
@@ -28,7 +37,6 @@ Alexander Boll, Pooja Rani, <ins>Alexander Schultheiß</ins>, Timo Kehrer. In: J
 <br>
 [[doi]](https://doi.org/10.1016/j.jss.2024.112087)
 [[pdf]](http://alexanderschultheiss.github.io/files/BRSK-JSS24.pdf)
-
 
 
 ## 2023
