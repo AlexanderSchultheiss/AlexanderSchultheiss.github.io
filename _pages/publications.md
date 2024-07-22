@@ -27,7 +27,7 @@ Paul Maximilian Bittner, <ins>Alexander Schultheiß</ins>, Benjamin Moosherr, Ti
 <span style="font-size:1.1em;">__Towards Semi-Automated Merge Conflict Resolution: Is It Easier Than We Expected?__</span><br>
 Alexander Boll, Yael van Dok, Manuel Ohrndorf, <ins>Alexander Schultheiß</ins>, Timo Kehrer. In: Proceedings of the 28th International Conference on Evaluation and Assessment in Software Engineering (EASE). ACM, New York, NY, USA, June 2024.
 <br>
-[[doi]](https://doi.org/10.1145/3661167.36611)
+[[doi]](https://doi.org/10.1145/3661167.3661197)
 [[pdf]](http://alexanderschultheiss.github.io/files/BVO+-EASE24.pdf)
 
 
