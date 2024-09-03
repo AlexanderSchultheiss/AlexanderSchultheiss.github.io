@@ -106,7 +106,7 @@ Paul Maximilian Bittner, <ins>Alexander Schultheiß</ins>, Thomas Thüm, Timo Ke
 Timo Kehrer, Thomas Thüm, <ins>Alexander Schultheiß</ins>, Paul Maximilian Bittner. In: Proceedings of the 43rd International Conference on Software Engineering: New Ideas and Emerging Results (ICSE-NIER), 2021, pp. 21-25.
 <br>
 [[doi]](https://doi.org/10.1109/ICSE-NIER52604.2021.00013)
-[[pdf]](https://alexanderschultheiss.github.io/files/KTSB-ICSE21.pdf)
+[[pdf]](https://oparu.uni-ulm.de/server/api/core/bitstreams/17f2d43d-d256-408d-8822-ffe497f80367/content)
 
 
 ---
