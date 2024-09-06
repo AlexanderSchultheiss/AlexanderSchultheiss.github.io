@@ -7,7 +7,17 @@ author_profile: true
 
 ---
 ## 2024
+
+
+<span style="font-size:0.75em;">[OOPSLA 2024]</span><br>
+<span style="font-size:1.1em;">__On the Expressive Power of Languages for Static Variability__</span><br>
+Paul Maximilian Bittner, <ins>Alexander Schultheiß</ins>, Benjamin Moosherr, Jeffrey M. Young, Leopoldo Teixeira, Eric Walkingshaw, Parisa Ataei, Thomas Thüm. To appear in: Proceedings of the ACM on Programming Languages (PACMPL (OOPSLA). ACM, New York, NY, USA, October 2024.
+<br>
+[[doi (TBA)]]()
+[pdf (TBA)]()
+
 <span style="font-size:0.75em;">[SPLC 2024]</span><br>
+<span style="font-size:0.75em;">[__Best Research Paper Award__]</span><br>
 <span style="font-size:1.1em;">__Give an Inch and Take a Mile? Effects of Adding Reliable Knowledge to Heuristic Feature Tracing__</span><br>
 Sandra Greiner, <ins>Alexander Schultheiß</ins>, Paul Maximilian Bittner, Thomas Thüm, Timo Kehrer. To appear in: Proceedings of the 28th ACM International Systems and Software Product Lines Conference (SPLC). ACM, New York, NY, USA, September 2024.
 <br>
@@ -19,8 +29,8 @@ Sandra Greiner, <ins>Alexander Schultheiß</ins>, Paul Maximilian Bittner, Thoma
 <span style="font-size:1.1em;">__Variability-Aware Differencing with DiffDetective__</span><br>
 Paul Maximilian Bittner, <ins>Alexander Schultheiß</ins>, Benjamin Moosherr, Timo Kehrer, and Thomas Thüm. To appear in: Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE), Demonstrations. ACM, New York, NY, USA, July 2024.
 <br>
-[[doi (TBA)]]()
-[pdf (TBA)]()
+[[doi]](https://doi.org/10.1145/3663529.3663813)
+[pdf](https://dl.acm.org/doi/pdf/10.1145/3663529.3663813)
 
 <span style="font-size:0.75em;">[EASE 2024]</span><br>
 <span style="font-size:0.75em;">[__Distinguished Paper Award__]</span><br>
