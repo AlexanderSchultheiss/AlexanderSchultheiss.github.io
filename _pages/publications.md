@@ -30,7 +30,7 @@ Sandra Greiner, <ins>Alexander Schultheiß</ins>, Paul Maximilian Bittner, Thoma
 Paul Maximilian Bittner, <ins>Alexander Schultheiß</ins>, Benjamin Moosherr, Timo Kehrer, and Thomas Thüm. To appear in: Proceedings of the ACM International Conference on the Foundations of Software Engineering (FSE), Demonstrations. ACM, New York, NY, USA, July 2024.
 <br>
 [[doi]](https://doi.org/10.1145/3663529.3663813)
-[pdf](https://dl.acm.org/doi/pdf/10.1145/3663529.3663813)
+[[pdf]](https://dl.acm.org/doi/pdf/10.1145/3663529.3663813)
 
 <span style="font-size:0.75em;">[EASE 2024]</span><br>
 <span style="font-size:0.75em;">[__Distinguished Paper Award__]</span><br>
