@@ -11,7 +11,7 @@ author_profile: true
 
 <span style="font-size:0.75em;">[ICSE 2026]</span><br>
 <span style="font-size:1.1em;">**Decades of GNU Patch and Git Cherry-Pick: Can We Do Better?**</span><br>
-<ins>Alexander Schultheiß</ins>, Alexander Boll, Paul Maximilian Bittner, Sandra Greiner, Thomas Thüm, Timo Kehrer. In: Proceedings of the IEEE/ACM International
+<ins>Alexander Schultheiß</ins>, Alexander Boll, Paul Maximilian Bittner, Sandra Greiner, Thomas Thüm, Timo Kehrer. To Appear In: Proceedings of the IEEE/ACM International
 Conference on Software Engineering (ICSE). ACM, New York, NY, USA, 2026.
 <br>
 [doi](https://doi.org/10.1145/3744916.3764537)
@@ -23,7 +23,6 @@ Conference on Software Engineering (ICSE). ACM, New York, NY, USA, 2026.
 <span style="font-size:1.1em;">**Towards Managed Clone-and-Own: Automating Matching and Patching**</span><br>
 <ins>Alexander Schultheiß</ins>. In: BORIS Thesis, University of Bern, 2025.
 <br>
-[doi](https://doi.org/10.1145/3696630.3728501)
 [pdf](https://boristheses.unibe.ch/6359/)
 
 <span style="font-size:0.75em;">[FSE Companion 2025]</span><br>
